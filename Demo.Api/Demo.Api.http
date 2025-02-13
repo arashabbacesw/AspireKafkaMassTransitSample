@@ -1,0 +1,6 @@
+@Demo.Api_HostAddress = http://localhost:5033
+
+POST {{Demo.Api_HostAddress}}/UserLoggedIn/
+Accept: application/json
+
+###
